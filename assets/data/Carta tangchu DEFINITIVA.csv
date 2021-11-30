@@ -1,0 +1,84 @@
+,,Comida,Precio,pescado,molusco,marisco,cacahuete,apio,altramuces,mostaza,frutos secos,huevos,lacteos,sesamo,sulfitos,trigo,soja
+ENTRANTES,,ENTRANTES,,,,,,,,,,,,,,,
+ENTRANTES,1,Milhoja de berenjena ,"5,90 €",1,,,,,,,,,,1,,,
+ENTRANTES,2,Rollitos vegetales (4U),5.50 €,,,,,,,,,,,,,1,
+ENTRANTES,3,Rollitos de langostinos (4U),6.80 €,,,1,,,,,,,,,,1,
+ENTRANTES,4,Crépes de pato asado (3U),7.90 €,,,1,,,,,,,,,,1,1
+ENTRANTES,5,Huevos rotos trufados,7.90 €,1,,,,,,,,1,,1,,,
+ENTRANTES,6,Croquetas caseras (4U),"5,90 €",1,,1,,,,,,1,,,,1,
+ENTRANTES,7,Tacos de cerdo desmenuzado (2U),"6,90 €",,,,,,,,,,,,,1,1
+ENTRANTES,8,Tostas mexicanas (4U),8.90 €,1,,,,,,,1,,,,,1,1
+,,,,,,,,,,,,,,,,,
+,B,DEL HUERTO,,,,,,,,,,,,,,,
+DEL HUERTO,9,Verdura variada salteada,7.50 €,,,,,,,,,,,,,,
+DEL HUERTO,10,Setas y espárragos ,7.50 €,,,,,,,,,,,,,1,1
+,,,,,,,,,,,,,,,,,
+,C,DEL MAR,,,,,,,,,,,,,,,
+DEL MAR,11,Tartar de salmón,8.90 €,1,,,,,,,1,,,1,,1,1
+DEL MAR,12,Salmón a la plancha,6.90 €,1,,,,,,,,1,,,,1,1
+DEL MAR,13,Salmon ahumado con mango ,8.90 €,1,,1,,,,1,,,,,,,
+DEL MAR,14,Tartar de atún ,9.90 €,1,,,,,,,,1,,1,,1,1
+DEL MAR,15,Tataki de atún,9.90 €,1,,,,,,,,,,1,,1,1
+DEL MAR,16,Tempura de langostino,6.90 €,,,1,,,,,,1,,,,1,1
+DEL MAR,17,Langostinos tigre,6.90 €,,,1,,,,,,1,,,,1,
+DEL MAR,18,Gambas al Kung-Pao,"9,50 €",,,1,1,,,,,,,,,1,1
+DEL MAR,19,Gambas con salsa XO,"9,50 €",,1,1,1,,,,,,,1,,1,1
+,,,,,,,,,,,,,,,,,
+,D,DE LA TIERRA,,,,,,,,,,,,,,,
+DE LA TIERRA,20,Rabo de toro,7.90 €,,,,,,,,,,,,1,1,1
+DE LA TIERRA,21,Costillar con puré de patatas,"6,90 €",,,,,,,,,,1,,,,
+DE LA TIERRA,22,Tuétano con miso rojo,7.90 €,,,,1,,,,,,,,1,1,1
+DE LA TIERRA,23,Burger de Wagyu,"7,50 €",,,,,,,,,1,1,,,,
+DE LA TIERRA,24,Ternera crujiente agridulce,"7,50 €",,,,,,,,,1,,1,,1,1
+DE LA TIERRA,25,Ternera al curry con arroz blanco,8.50 €,,,,,,,,,,1,,,,
+DE LA TIERRA,26,Ternera con salsa de ostras,"7,50 €",,,1,,,,,,,,,,1,1
+DE LA TIERRA,27,Pollo caramelizado crujiente,6.90 €,,,,,,,,,,,1,,1,1
+DE LA TIERRA,28,Pollo con limón,"6,50 €",,,,,,,,,1,,1,,1,
+DE LA TIERRA,29,Pollo Kung-Pao,"6,90 €",,,,1,,,,,,,,,1,1
+DE LA TIERRA,30,Pollo al curry con arroz,7.90 €,,,,,,,,,,1,,,,
+DE LA TIERRA,31,Cerdo agridulce,"6,50 €",,,,,,,,,1,,,,1,
+DE LA TIERRA,32,Pato frito con salsa de soja,"9,50 €",,,,,,,,1,,,,,1,1
+,,,,,,,,,,,,,,,,,
+,E,UN TOQUE ORIENTAL,,,,,,,,,,,,,,,
+UN TOQUE ORIENTAL,33,Gyoza a la plancha de pollo y verdura (4U),"6,50 €",,,,,,,,,,,,,1,1
+UN TOQUE ORIENTAL,34,Dumplings al vapor (4U),6.50 €,,,,,,,,,,,,,1,1
+UN TOQUE ORIENTAL,35,Xiao Long Bao (4U),"6,00 €",,,,,,,,,,,,,1,1
+UN TOQUE ORIENTAL,36,ShaoMai (4U),"6,00 €",,,1,,,,,,,,,,1,1
+UN TOQUE ORIENTAL,37,XiaJiao (4U),"6,00 €",,,1,,,,,,1,,,,,
+UN TOQUE ORIENTAL,38,Gran Bao de cangrejo,"8,50 €",,,1,,,,,,1,,,,1,
+UN TOQUE ORIENTAL,39,Bao de tempura de langostino,"6,90 €",,,1,,,,,,1,,,,1,
+UN TOQUE ORIENTAL,40,Bao de pato asado,6.80 €,,,1,,,,,,,,,,1,1
+UN TOQUE ORIENTAL,41,Arroz frito con solomillo y langostinos teppanyaki,8.90 €,,,1,,,,,,1,,,,1,1
+UN TOQUE ORIENTAL,42,Arroz frito con gambas,6.90 €,,,1,,,,,,1,,,,1,1
+UN TOQUE ORIENTAL,43,Arroz Blanco,"2,00 €",,,,,,,,,,,1,,,
+UN TOQUE ORIENTAL,44,Ku-Bak crujiente,"8,50 €",,,1,,,,,,1,,,,1,1
+UN TOQUE ORIENTAL,45,Tallarines frito con ternera,"6,50 €",,,,,,,,,1,,1,,1,1
+,,,,,,,,,,,,,,,,,
+,F,SUSHI,,,,,,,,,,,,,,,
+SUSHI,46,Nigiri de salmon (4U),6.50 €,1,,,,,,,,,,,,,
+SUSHI,47,Nigiri de salmón flambeado (4U),6.90 €,1,,,,,,,,1,,,,1,1
+SUSHI,48,Nigiri de atún y salmon (4U),6.90 €,1,,,,,,,,,,,,,
+SUSHI,49,Nigiri de sushi EBI (4U),5.90 €,,,1,,,,,,,,,,,
+SUSHI,50,Nigiri vegetal (4U),5.50 €,,,,,,,,,,,,,,
+SUSHI,51,Nigiri de foie (2U),6.90 €,1,,,,,,,,,,,,1,1
+SUSHI,52,Sushi roll de salmón y aguacate (4U),6.90 €,1,,,,,,1,,1,,,,1,1
+SUSHI,53,Sushi roll de tempura de langostino (4U),6.90 €,,,1,,,,,,1,,,,1,1
+SUSHI,54,California roll con tobiko (4U),5.90 €,1,,1,,,,,,1,,,,,
+SUSHI,55,Uramaki rollo de salmon ,6.50 €,1,,,,,,,,,,,,1,1
+,,,,,,,,,,,,,,,,,
+,G,SUSHI ESPECIAL,,,,,,,,,,,,,,,
+SUSHI ESPECIAL,70,Sushi Box 28U,33.95 €,1,,,,,,1,,1,,,,,
+SUSHI ESPECIAL,71,Combo Special Rolls 16U,26.90 €,1,,1,,,,1,,1,,,,,
+SUSHI ESPECIAL,72,Combo Moriawase 20U,29.95 €,1,,,,,,1,,,,,,,
+SUSHI ESPECIAL,73,Combo Salmón 20U,28.95 €,1,,,,,,1,,1,,,,,
+SUSHI ESPECIAL,74,Combo Maki 24U,19.95 €,1,,,,,,,,,,,,,
+SUSHI ESPECIAL,75,Basic Box 12U,13.95 €,1,,,,,,,,,,,,,
+SUSHI ESPECIAL,76,Nigiri Box 8U,13.50 €,1,,1,,,,,,,,,,,
+SUSHI ESPECIAL,77,Sashimi Salmón 8U,13.95 €,1,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

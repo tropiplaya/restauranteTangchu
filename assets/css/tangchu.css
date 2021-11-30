@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/subtle-prism.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#logo {
+    max-height: 80px;
+    width: 100%;
+}
+
+#dish-list {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: gold;
+    font-weight: bold;
+}
