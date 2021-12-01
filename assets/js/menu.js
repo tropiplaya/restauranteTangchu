@@ -24,12 +24,12 @@ $(document).scroll(function() {
     if (isScrolledIntoView("#logo")) {
         if ($("nav").hasClass("fixed-top")) {
             $("nav").removeClass("fixed-top");
-            $("nav").removeClass("bg-secondary");
+            $("nav").removeClass("custom-bg");
         }
     } else {
         if (!$("nav").hasClass("fixed-top")) {
             $("nav").addClass("fixed-top");
-            $("nav").addClass("bg-secondary");
+            $("nav").addClass("custom-bg");
         }
     }
 })
@@ -70,7 +70,7 @@ function buildMenu(dishes) {
 
             if ($("#" + rowID).length == 0) {
                 $("#dish-list").append('<div class="row" id="' + rowID + '"></div>');
-                $("#" + rowID).append('<p class="text-light h3 text-center mt-5">' + atob(keyCategory) + '</p>');
+                $("#" + rowID).append('<p class="text-white h3 text-center mt-3 font-weight-bold">' + atob(keyCategory) + '</p>');
             }
             console.log(categoryList);
             for (const keyDish in categoryList) {
