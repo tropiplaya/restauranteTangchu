@@ -18,3 +18,8 @@
     color: gold;
     font-weight: bold;
 }
+
+@media print {
+    #dish-list .row {page-break-after: always;}
+    #dish-list img {display:none}
+}

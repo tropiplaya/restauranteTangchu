@@ -80,7 +80,7 @@ function buildMenu(dishes) {
                 $("#" + rowID).append(dishCard);
 
                 $("#" + dishCardID).append('<img src="./assets/images/tangchu/tangchu-' + categoryList[keyDish][1] + '.JPG" class="img-fluid rounded p-4 d-block" onerror="this.onerror=null; this.src=\'./assets/images/tangchu/tangchu-bar.JPG\'" >');
-                $("#" + dishCardID).append('<p class="h5 text-light text-center">' + categoryList[keyDish][2] + '</p>');
+                $("#" + dishCardID).append('<p class="h5 text-light text-center">' + categoryList[keyDish][1] + ". " + categoryList[keyDish][2] + '</p>');
                 $("#" + dishCardID).append('<p class="h4 text-light text-center">' + categoryList[keyDish][3] + '</p>');
 
             }
