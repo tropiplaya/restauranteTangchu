@@ -5,6 +5,15 @@
     background-size: 100% auto;
 }
 
+body {
+    position: relative;
+}
+
+.nav-pills .nav-link.active {
+    background: none;
+    font-weight: bold;
+}
+
 #logo {
     max-height: 80px;
 }
@@ -16,7 +25,11 @@
 .nav-link {
     font-family: 'Merriweather Sans', sans-serif;
     color: gold;
-    font-weight: bold;
+}
+
+footer p {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: gold;
 }
 
 @media print {
