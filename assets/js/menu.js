@@ -20,6 +20,19 @@ $(document).ready(function () {
 
 });
 
+$(document).scroll(function() {
+    if (isScrolledIntoView("#logo")) {
+        if ($("nav").hasClass("fixed-top")) {
+            $("nav").removeClass("fixed-top");
+            $("nav").removeClass("bg-secondary");
+        }
+    } else {
+        if (!$("nav").hasClass("fixed-top")) {
+            $("nav").addClass("fixed-top");
+            $("nav").addClass("bg-secondary");
+        }
+    }
+})
 
 function readCSV(data) {
     let arr = $.csv.toArrays(data);
@@ -57,7 +70,7 @@ function buildMenu(dishes) {
 
             if ($("#" + rowID).length == 0) {
                 $("#dish-list").append('<div class="row" id="' + rowID + '"></div>');
-                $("#" + rowID).append('<p class="text-light h3 text-center">' + atob(keyCategory) + '</p>');
+                $("#" + rowID).append('<p class="text-light h3 text-center mt-5">' + atob(keyCategory) + '</p>');
             }
             console.log(categoryList);
             for (const keyDish in categoryList) {
