@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <!-- Required meta tags -->
+    <meta http-equiv="refresh" content="2;url=./carta.html" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -13,32 +14,32 @@
             src="https://code.jquery.com/jquery-3.6.0.min.js"
             integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
             crossorigin="anonymous"></script>
-    <link href="./assets/css/tangchu.css" rel="stylesheet" type="text/css" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap" rel="stylesheet">
+    <link href="./assets/css/tangchu.css" rel="stylesheet" type="text/css">
+    <script src="./assets/js/jquery.csv.min.js"></script>
+    <link rel="shortcut icon" href="/assets/images/tangchu-favicon.png" type="image/png"/>
+    <link href="./assets/css/tangchu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-
-
 <header>
     <navbar class="d-flex flex-row">
-        <img src="./assets/images/tangchu-imagotipo.png" height="80px">
-        <nav id="sidebar">
-            <ul class="list-unstyled components">
-                <li class="active">
-                    <a class="text-light text-decoration-none" href="/index.html">El restaurante</a>
-                </li>
-                <li class="text-light text-decoration-none">
-                    <a class="text-light text-decoration-none"  href="/carta.html">Nuestra carta</a>
-                </li>
-            </ul>
-        </nav>
+        <a href="./carta.html">
+            <img id="logo" class="" src="./assets/images/tangchu-imagotipo.png">
+        </a>
     </navbar>
+    <div class="">
+        <ul id="dish-category" class="nav nav-pills navbar-right position-sticky"></ul>
+    </div>
 </header>
+<p><a href="carta.html">-ver la carta</a></p>
 <div class="container-fluid" id="google-map">
     <iframe class="d-block d-lg-none" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.392274240332!2d-3.716242584396642!3d40.422311963223436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228701a89644b%3A0x7373f7aa6209f54f!2zUmVzdGF1cmFudGUgVGFuZ2NodeWUkOWOqOWkp-mFkualvA!5e0!3m2!1szh-CN!2ses!4v1638065798263!5m2!1szh-CN!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <iframe class="d-none d-lg-block"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6074.771631445841!2d-3.7138578!3d40.422455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228701a89644b%3A0x7373f7aa6209f54f!2zUmVzdGF1cmFudGUgVGFuZ2NodeWUkOWOqOWkp-mFkualvA!5e0!3m2!1szh-CN!2ses!4v1638116326889!5m2!1szh-CN!2ses" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 <footer>
-    @copyright Restaurante Tangchu
+    <p class="text-light">@copyright Restaurante Tangchu</p>
 </footer>
 </body>
 

@@ -18,28 +18,33 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap" rel="stylesheet">
     <link href="./assets/css/tangchu.css" rel="stylesheet" type="text/css">
     <script src="./assets/js/jquery.csv.min.js"></script>
-    <script src="./assets/js/tangchu.js"></script>
+    <script src="./assets/js/menu.js"></script>
     <link rel="shortcut icon" href="/assets/images/tangchu-favicon.png" type="image/png"/>
     <link href="./assets/css/tangchu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<header>
-    <navbar class="d-flex flex-row">
-        <a href="./carta.html">
-            <img id="logo" class="" src="./assets/images/tangchu-imagotipo.png">
-        </a>
-    </navbar>
-    <div class="">
-        <ul id="dish-category" class="nav nav-pills navbar-right"></ul>
-    </div>
-</header>
-<div class="container-fluid">
+<div class="container">
+    <header class="d-flex flex-row">
+        <div class="container">
+            <a href="./carta.html">
+                <img id="logo" class="float-left" src="./assets/images/tangchu-imagotipo.png">
+            </a>
+        </div>
+    </header>
+    <nav class="navbar navbar-default navbar-fixed-bottom">
+        <div class="container">
+            <ul id="dish-category" class="nav nav-pills navbar-right"></ul>
+        </div>
+    </nav>
     <div id="dish-list">
     </div>
+    <footer class="d-flex flex-row">
+        <div class="container">
+            <p class="text-light">@copyright Restaurante Tangchu</p>
+        </div>
+
+    </footer>
 </div>
-<footer>
-    <p class="text-dark">@copyright Restaurante Tangchu</p>
-</footer>
 </body>
 
 
