@@ -53,3 +53,8 @@ body {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
 }
+
+p.h5 {
+    letter-spacing: 3px;
+    word-spacing: 10px;
+}

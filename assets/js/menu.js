@@ -122,7 +122,7 @@ function buildDishes(rowID, dishElem) {
 
     //DETAILS
     $("#" + dishCardID).append('<p class="h6 text-light text-center">' + dishElem[2] + ". " + dishElem[3] + '</p>');
-    $("#" + dishCardID).append('<p class="h5 text-light text-center">' + dishElem[4] + '</p>');
+    $("#" + dishCardID).append('<p class="h5 text-light text-center">' + parseFloat(dishElem[4]).toLocaleString("es", {minimumFractionDigits: 2}) + '€</p>');
 
     $("#" + dishCardID).append('<div class="row"><div class="col-xs-12 text-center" id="' + dishCardAllergensID + '"></div></div>');
     if (dishElem[6]) {
