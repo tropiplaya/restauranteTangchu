@@ -7,11 +7,23 @@
 
 body {
     position: relative;
+    font-size: 0.8rem;
 }
 
 .nav-pills .nav-link.active {
     background: none;
     font-weight: bold;
+    font-size: 1rem;
+}
+
+.text-gold {
+    font-family: 'Merriweather Sans', sans-serif; !important;
+    color: gold; !important;
+}
+
+.nav {
+    flex-wrap: nowrap; !important;
+    overflow-x: auto; !important;
 }
 
 #logo {
@@ -22,17 +34,22 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
 }
 
-.nav-link {
-    font-family: 'Merriweather Sans', sans-serif;
-    color: gold;
-}
-
-footer p {
-    font-family: 'Merriweather Sans', sans-serif;
-    color: gold;
-}
-
 @media print {
     #dish-list .row {page-break-after: always;}
     #dish-list img {display:none}
+}
+
+.example {
+    overflow-x: scroll; /* Add the ability to scroll */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
