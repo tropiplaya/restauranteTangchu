@@ -16,6 +16,12 @@ body {
     font-size: 1rem;
 }
 
+.nav-link {
+    background: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
 .text-gold {
     font-family: 'Merriweather Sans', sans-serif; !important;
     color: gold; !important;
@@ -24,6 +30,7 @@ body {
 .nav {
     flex-wrap: nowrap; !important;
     overflow-x: auto; !important;
+    white-space: nowrap;
 }
 
 #logo {
@@ -57,4 +64,8 @@ body {
 p.h5 {
     letter-spacing: 3px;
     word-spacing: 10px;
+}
+
+.text-menu {
+    line-height: 2;
 }

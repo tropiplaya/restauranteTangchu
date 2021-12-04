@@ -65,7 +65,7 @@ function readCSV(data) {
                     $("#section-navbar").append('<li class="nav-item"><a class="nav-link text-gold" id="pill-' + sectionID + '-tab" data-bs-toggle="pill" data-bs-target="#pill-' + sectionID + '" type="button" role="tab" aria-controls="pills-home" aria-selected="true">' + elem[0] + '</a></li>');
 
                     if ($(sectionID).length == 0) {
-                        $("#pills-tabContent").append('<div class="tab-pane fade" id="pill-' + sectionID + '" role="tabpanel" aria-labelledby="pills-home-tab"><ul id="' + sectionID + '" class="nav nav-pills"></ul></div>');
+                        $("#pills-tabContent").append('<div class="tab-pane fade" id="pill-' + sectionID + '" role="tabpanel" aria-labelledby="pills-home-tab"><ul id="' + sectionID + '" class="nav nav-pills example"></ul></div>');
                     }
                 }
 
@@ -87,6 +87,12 @@ function readCSV(data) {
         });
 
     buildDishesContent(dishList);
+
+    reorderMenu();
+}
+
+function reorderMenu() {
+    $("#section-navbar li:first").insertAfter($("#section-navbar li:last"));
 }
 
 const defaultImage = "./assets/images/tangchu/tangchu-bar.JPG";

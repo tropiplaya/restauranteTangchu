@@ -8,6 +8,7 @@
     <meta http-equiv='expires' content='0'>
     <meta http-equiv='pragma' content='no-cache'>
     <link rel="shortcut icon" href="/assets/images/tangchu-favicon.png" type="image/png"/>
+    <title>Carta Tangchu</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
@@ -30,18 +31,116 @@
     <header class="d-flex flex-row mt-3 mb-2">
         <div class="container">
             <a href="./carta.html">
-                <img id="logo" class="float-left" src="./assets/images/tangchu-imagotipo.png">
+                <img id="logo" class="float-left" src="./assets/images/tangchu-imagotipo.png" alt="Tangchu">
             </a>
         </div>
     </header>
     <div id="menu-navbar">
         <div class="navbar">
-            <ul class="nav nav-pills example" id="section-navbar"></ul>
+            <ul class="nav nav-pills example" id="section-navbar">
+                <li class="nav-item">
+                    <a class="nav-link text-gold" id="pill-menu-tab" data-bs-toggle="pill"
+                       data-bs-target="#pill-menu" type="button" role="tab" aria-controls="pills-home"
+                       aria-selected="true">MENÚS</a>
+                </li>
+            </ul>
         </div>
         <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade" id="pill-menu" role="tabpanel" aria-labelledby="pills-home-tab">
+                <ul id="menuNabVar" class="nav nav-pills example">
+                    <li class="nav-item"><a class="nav-link text-gold" href="#menu-dia">MENÚ DEL DÍA</a></li>
+                    <li class="nav-item"><a class="nav-link text-gold" href="#menu-noche-festivo">MENÚ DE NOCHE</a></li>
+                    <li class="nav-item"><a class="nav-link text-gold" href="#menu-para-dos">MENÚ PARA DOS</a></li>
+                </ul>
+            </div>
         </div>
     </div>
-    <div id="dish-list">
+    <div id="page-content">
+        <div id="dish-list">
+        </div>
+        <div id="menu-list">
+            <div class="row border-bottom border-warning mb-2" id="menu-dia">
+                <p class="h5 text-center text-gold mt-3 font-weight-bold">MENÚ DEL DÍA</p>
+                <div class="col-xs-12 col-md-6">
+                    <p class="text-light h6"><strong>Platos a elegir</strong></p>
+                    <p class="text-light text-menu p-3">Rollito vegetal</br>
+                        Rollito de langostinos con mango y albahaca</br>
+                        Nigiri sushi EBI 4U</br>
+                        Nigiri de salmón flambeado 4U</br>
+                        Sushi roll de salmón y aguacate 4U</br>
+                        Sushi roll de tempura de langostino y aguacate 4U</br>
+                        Uramaki</br>
+                        Milhojas de berenjenas rebozadas</br>
+                        Bao de pato asado</br>
+                        Bao de langostinos</br>
+                        Gyozas de pollo y verduras (4U)</br>
+                        Pollo caramelizado crujiente</br>
+                        Croquetas sobre algas wakame (chipirón, jamón, gula y hongos)</br>
+                        Arroz frito con gambas</br>
+                        Pollo al curry con arroz blanco</p>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <p class="text-light h6"><strong>Postre a elegir</strong></p>
+                    <p class="text-light text-menu p-3">Café o infusión</br>
+                        Tiramisú</br>
+                        Tarta de la semana</br>
+                        Dos texturas de yogur y oreo con sirope de frambuesa</br>
+                        Helados (chocolate, vainilla, fresa)
+                    </p>
+                    <p class="text-center text-light">Válido de lunes a viernes a mediodía<br/>
+                        Incluye bebidas (refresco, agua o cerveza)
+                    </p>
+                    <p class="text-center text-light"><strong>3 platos a elegir - 12,95 € por persona</strong></p>
+                    <p class="text-center text-light"><strong>4 platos a elegir - 14,95 € por persona</strong></p>
+                </div>
+            </div>
+            <div class="row border-bottom border-warning mb-2" id="menu-noche-festivo">
+                <p class="h5 text-center text-gold mt-3 font-weight-bold">MENÚ NOCHE/FESTIVOS</p>
+                <div class="col-xs-12 col-md-6">
+                    <p class="text-light h6"><strong>Platos a elegir</strong></p>
+                    <p class="text-light text-menu p-3">Rollito vegetal</br>
+                        Rollito de langostinos con mango y albahaca</br>
+                        Nigiri sushi EBI 4U</br>
+                        Nigiri de salmón flambeado 4U</br>
+                        Sushi roll de salmón y aguacate 4U</br>
+                        Sushi roll de tempura de langostino y aguacate 4U</br>
+                        Uramaki</br>
+                        Milhojas de berenjenas rebozadas</br>
+                        Bao de pato asado</br>
+                        Bao de langostinos</br>
+                        Gyozas de pollo y verduras (4U)</br>
+                        Xiao Long Bao (4U)<br/>
+                        ShaoMai (4U)<br/>
+                        XiaJiao (4U)<br/>
+                        Tempura de langostinos con salsa de soja</br>
+                        Costillar con puré de patatas</br>
+                        Ternera al curry con arroz blanco<br/>
+                        Pollo caramelizado crujiente</p>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <p class="text-light h6"><strong>Postre a elegir</strong></p>
+                    <p class="text-light text-menu p-3">Café o infusión</br>
+                        Tiramisú</br>
+                        Tarta de la semana</br>
+                        Dos texturas de yogur y oreo con sirope de frambuesa</br>
+                        Helados (chocolate, vainilla, fresa)
+                    </p>
+                    <p class="text-center text-light">Válido de para cenas (incluido festivos)<br/>
+                        Incluye bebidas (refresco, agua o cerveza)
+                    </p>
+                    <p class="text-center text-light"><strong>3 platos a elegir - 16,95 € por persona</strong></p>
+                </div>
+            </div>
+            <div class="row border-bottom border-warning mb-2" id="menu-para-dos">
+                <p class="h5 text-center text-gold mt-3 font-weight-bold">MENÚ PARA 2</p>
+                <div class="col-xs-12 col-md-6">
+                    <p class="text-center text-light">Elegir 8 platos del Menú Noche/Festivo<br/>
+                        No incluye bebidas
+                    </p>
+                    <p class="text-center text-light"><strong>34,90 € para 2 personas<strong></p>
+                </div>
+            </div>
+        </div>
     </div>
     <footer class="d-flex flex-row">
         <div class="container">
