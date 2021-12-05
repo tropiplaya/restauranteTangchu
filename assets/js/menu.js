@@ -22,16 +22,22 @@ $(document).ready(function () {
 
 $(document).scroll(function() {
     if (isScrolledIntoView("#logo")) {
-        if ($("#menu-navbar").hasClass("fixed-top")) {
-            $("#menu-navbar").removeClass("fixed-top");
+        if ($("#menu-navbar").hasClass("sticky-top")) {
+            $("#menu-navbar").removeClass("sticky-top");
             $("#menu-navbar").removeClass("custom-bg");
-            $("#menu-navbar").removeClass("px-5");
+            $("#menu-navbar").removeClass("px-1");
+            if($("#nav-bar-logo").length != 0) {
+                $("#nav-bar-logo").remove();
+            }
         }
     } else {
-        if (!$("#menu-navbar").hasClass("fixed-top")) {
-            $("#menu-navbar").addClass("fixed-top");
+        if (!$("#menu-navbar").hasClass("sticky-top")) {
+            $("#menu-navbar").addClass("sticky-top");
             $("#menu-navbar").addClass("custom-bg");
-            $("#menu-navbar").addClass("px-5");
+            $("#menu-navbar").addClass("px-1");
+            if($("#nav-bar-logo").length == 0) {
+                $("#section-navbar").prepend('<li id="nav-bar-logo" class="nav-item"><a class="nav-link"><img class="" src="./assets/images/tangchu-logo.png" height="25px"/></a></li>');
+            }
         }
     }
 })
@@ -74,7 +80,7 @@ function readCSV(data) {
                 if (!navList[safeStringSection].hasOwnProperty(safeStringCategory)) {
                     navList[safeStringSection][safeStringCategory] = [];
 
-                    $("#" + sectionID).append('<li class="nav-item"><a class="nav-link text-gold" href="#' + categoryID + '">' + elem[1] + '</a></li>');
+                    $("#" + sectionID).append('<li class="nav-item"><a class="nav-link text-gold font-italic" href="#' + categoryID + '">' + elem[1] + '</a></li>');
 
                     if ($(categoryID).length == 0) {
                         $("#dish-list").append('<div class="row border-bottom border-warning mb-2" id="' + categoryID + '"></div>');

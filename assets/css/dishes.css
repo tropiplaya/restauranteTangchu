@@ -22,6 +22,18 @@ body {
     font-size: 1rem;
 }
 
+#section-navbar > li > a{
+    background: none;
+}
+
+#section-navbar > li > a.active{
+    background: none;
+}
+
+#pills-tabContent > div > ul > li > a{
+    font-style: italic;
+}
+
 .text-gold {
     font-family: 'Merriweather Sans', sans-serif; !important;
     color: gold; !important;
