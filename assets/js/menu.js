@@ -68,7 +68,7 @@ function readCSV(data) {
                 if (!navList.hasOwnProperty(safeStringSection)) {
                     navList[safeStringSection] = [];
 
-                    $("#section-navbar").append('<li class="nav-item"><a class="nav-link text-gold" id="pill-' + sectionID + '-tab" data-bs-toggle="pill" data-bs-target="#pill-' + sectionID + '" type="button" role="tab" aria-controls="pills-home" aria-selected="true">' + elem[0] + '</a></li>');
+                    $("#section-navbar").append('<li class="nav-item"><a class="nav-link text-gold" id="pill-' + sectionID + '-tab" data-bs-toggle="pill" data-bs-target="#pill-' + sectionID + '" role="tab" aria-controls="pills-home" aria-selected="true">' + elem[0] + '</a></li>');
 
                     if ($(sectionID).length == 0) {
                         $("#pills-tabContent").append('<div class="tab-pane fade" id="pill-' + sectionID + '" role="tabpanel" aria-labelledby="pills-home-tab"><ul id="' + sectionID + '" class="nav nav-pills example"></ul></div>');
