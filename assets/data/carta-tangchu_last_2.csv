@@ -1,9 +1,6 @@
 TIPO,Subcategoria,Numero,Comida,Precio,sin foto,pescado,molusco,marisco,cacahuete,apio,altramuces,mostaza,frutos secos,huevos,lacteos,sesamo,sulfitos,trigo,soja
 ,,,ENTRANTES,,,,,,,,,,,,,,,,
-ENTRANTES,ENTRANTES,192,Goma wakame,5.50,,,,,,,,,,,,,,,
-ENTRANTES,ENTRANTES,193,Sopa miso,3.90,1,,,,,,,,,,,,,,
-ENTRANTES,ENTRANTES,194,Sopa agri tradicional,5.50,,,,,,,,,,,,,,,
-ENTRANTES,ENTRANTES,195,Berenjena crujiente con salsa especial,5.90,,,,,,,,,,,,,,1,
+ENTRANTES,ENTRANTES,1,Milhoja de berenjena,5.90,,1,,,,,,,,,,1,,,
 ENTRANTES,ENTRANTES,2,Rollitos vegetales (4U),4.90,,,,,,,,,,,,,,1,
 ENTRANTES,ENTRANTES,3,Rollitos de langostinos (4U),6.80,,,,1,,,,,,,,,,1,
 ENTRANTES,ENTRANTES,4,Crépes de pato asado (3U),7.90,,,,1,,,,,,,,,,1,1
@@ -11,7 +8,6 @@ ENTRANTES,ENTRANTES,5,Huevos rotos trufados,7.90,,1,,,,,,,,1,,1,,,
 ENTRANTES,ENTRANTES,6,Croquetas caseras (4U),5.90,,1,,1,,,,,,1,,,,1,
 ENTRANTES,ENTRANTES,7,Tacos de cerdo desmenuzado (2U),7.95,,,,,,,,,,,,,,1,1
 ENTRANTES,ENTRANTES,8,Tostas mexicanas (4U),8.90,,1,,,,,,,1,,,,,1,1
-ENTRANTES,ENTRANTES,1,Milhoja de berenjena,5.90,,1,,,,,,,,,,1,,,
 ,,,DEL HUERTO,,,,,,,,,,,,,,,,
 PRINCIPALES,DEL HUERTO,9,Verdura variada salteada,7.50,,,,,,,,,,,,,,,
 PRINCIPALES,DEL HUERTO,10,Setas y espárragos,7.50,,,,,,,,,,,,,,1,1
