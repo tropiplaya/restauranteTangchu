@@ -10,7 +10,7 @@ ENTRANTES,ENTRANTES,5,Huevos rotos trufados,7.90,,1,,,,,,,,1,,1,,,
 ENTRANTES,ENTRANTES,6,Croquetas caseras (4U),5.90,,1,,1,,,,,,1,,,,1,
 ENTRANTES,ENTRANTES,7,Tacos de cerdo desmenuzado (2U),7.95,,,,,,,,,,,,,,1,1
 ENTRANTES,ENTRANTES,8,Tostas mexicanas (4U),8.90,,1,,,,,,,1,,,,,1,1
-ENTRANTES,ENTRANTES,1,Milhoja de berenjena,5.90,,1,,,,,,,,,,1,,,
+ENTRANTES,ENTRANTES,1,Rodajas de berenjena con bacalao,5.90,,1,,,,,,,,,,1,,,
 ,,,DEL HUERTO,,,,,,,,,,,,,,,,
 PRINCIPALES,DEL HUERTO,9,Verdura variada salteada,7.50,,,,,,,,,,,,,,,
 PRINCIPALES,DEL HUERTO,10,Setas y espárragos,7.50,,,,,,,,,,,,,,1,1
@@ -21,7 +21,7 @@ PRINCIPALES,DEL MAR,13,Salmon ahumado con mango,8.90,,1,,1,,,,1,,,,,,,
 PRINCIPALES,DEL MAR,14,Tartar de atún,9.90,,1,,,,,,,,1,,1,,1,1
 PRINCIPALES,DEL MAR,15,Tataki de atún,9.90,,1,,,,,,,,,,1,,1,1
 PRINCIPALES,DEL MAR,16,Tempura de langostino,6.90,,,,1,,,,,,1,,,,1,1
-PRINCIPALES,DEL MAR,17,Langostinos tigre,7.50,,,,1,,,,,,1,,,,1,
+PRINCIPALES,DEL MAR,17,Langostinos tigre,7.90,,,,1,,,,,,1,,,,1,
 PRINCIPALES,DEL MAR,18,Langostinos al Kung-Pao,9.50,,,,1,1,,,,,,,,,1,1
 PRINCIPALES,DEL MAR,19,Langostinos con salsa XO,9.50,,,1,1,1,,,,,,,1,,1,1
 PRINCIPALES,DEL MAR,191,Langostinos al curry,9.50,,,,1,,,,,,,,,,1,1
@@ -72,7 +72,7 @@ SUSHI,SUSHI ESPECIAL,72,Combo Moriawase 20U,29.95,,1,,,,,,1,,,,,,,
 SUSHI,SUSHI ESPECIAL,73,Combo Salmón 20U,28.95,,1,,,,,,1,,1,,,,,
 SUSHI,SUSHI ESPECIAL,74,Combo Maki 16U,13.95,,1,,,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,75,Basic Box 12U,13.95,,1,,,,,,,,,,,,,
-SUSHI,SUSHI ESPECIAL,76,Nigiri Box 8U,13.50,,1,,1,,,,,,,,,,,
+SUSHI,SUSHI ESPECIAL,76,Nigiri Box 8U,13.95,,1,,1,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,77,Sashimi Salmón 10U,15.95,,1,,,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,78,Combo california y maki,13.95,,1,,1,,,,,,1,,,,,
 ,,,,,,,,,,,,,,,,,,,
