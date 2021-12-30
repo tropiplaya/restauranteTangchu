@@ -58,12 +58,12 @@ PRINCIPALES,UN TOQUE ORIENTAL,45,Tallarines frito con ternera,6.50,,,,,,,,,,1,,1
 SUSHI,SUSHI,46,Nigiri de salmon (4U),6.50,,1,,,,,,,,,,,,,
 SUSHI,SUSHI,47,Nigiri de salmón flambeado (4U),6.90,,1,,,,,,,,1,,,,1,1
 SUSHI,SUSHI,48,Nigiri de atún y salmon (4U),6.90,,1,,,,,,,,,,,,,
-SUSHI,SUSHI,49,Nigiri de sushi EBI (4U),5.90,,,,1,,,,,,,,,,,
-SUSHI,SUSHI,50,Nigiri vegetal (4U),5.50,,,,,,,,,,,,,,,
+SUSHI,SUSHI,49,Nigiri de sushi EBI (4U),6.50,,,,1,,,,,,,,,,,
+SUSHI,SUSHI,50,Nigiri vegetal (4U),6.50,,,,,,,,,,,,,,,
 SUSHI,SUSHI,51,Nigiri de foie (2U),6.90,,1,,,,,,,,,,,,1,1
 SUSHI,SUSHI,52,Sushi roll de salmón y aguacate (4U),6.90,,1,,,,,,1,,1,,,,1,1
 SUSHI,SUSHI,53,Sushi roll de tempura de langostino (4U),6.90,,,,1,,,,,,1,,,,1,1
-SUSHI,SUSHI,54,California roll con tobiko (4U),5.90,,1,,1,,,,,,1,,,,,
+SUSHI,SUSHI,54,California roll con tobiko (4U),6.90,,1,,1,,,,,,1,,,,,
 SUSHI,SUSHI,55,Uramaki rollo de salmon,6.50,,1,,,,,,,,,,,,1,1
 SUSHI,SUSHI,60,Maki de Salmón,6.90,,1,,,,,,,,,,,,,
 SUSHI,SUSHI,61,Maki de Atún ,7.50,,1,,,,,,,,,,,,,
@@ -77,7 +77,7 @@ SUSHI,SUSHI ESPECIAL,71,Combo Special Rolls 16U,26.90,,1,,1,,,,1,,1,,,,,
 SUSHI,SUSHI ESPECIAL,72,Combo Moriawase 20U,29.95,,1,,,,,,1,,,,,,,
 SUSHI,SUSHI ESPECIAL,73,Combo Salmón 20U,28.95,,1,,,,,,1,,1,,,,,
 SUSHI,SUSHI ESPECIAL,74,Combo Maki 16U,13.95,,1,,,,,,,,,,,,,
-SUSHI,SUSHI ESPECIAL,75,Basic Box 12U,13.95,,1,,,,,,,,,,,,,
+SUSHI,SUSHI ESPECIAL,75,Basic Box 12U,12.95,,1,,,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,76,Nigiri Box 8U,13.95,,1,,1,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,77,Sashimi Salmón 10U,15.95,,1,,,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,78,Combo california y maki,13.95,,1,,1,,,,,,1,,,,,
