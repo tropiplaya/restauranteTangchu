@@ -1,96 +1,96 @@
 TIPO,Subcategoria,Numero,Comida,Precio,sin foto,pescado,molusco,marisco,cacahuete,apio,altramuces,mostaza,frutos secos,huevos,lacteos,sesamo,sulfitos,trigo,soja
 ,,,ENTRANTES,,,,,,,,,,,,,,,,
-ENTRANTES,ENTRANTES,192,Goma wakame,5.95,,,,1,,,,,,,,1,,,
-ENTRANTES,ENTRANTES,194,Sopa agri tradicional,6.5,,,,1,,,,,,,,,,,
-ENTRANTES,ENTRANTES,195,Berenjena crujiente con salsa especial,5.95,,,,,,,,,,,,,,1,
-ENTRANTES,ENTRANTES,2,Rollitos vegetales (4U),4.95,,,,,,,,,,,,,,1,
-ENTRANTES,ENTRANTES,2A,Rollitos de primavera de verduras,4.95,,,,,,,,,,,,,,1,
-ENTRANTES,ENTRANTES,3,Rollitos de langostinos (4U),6.95,,,,1,,,,,,,,,,1,
-ENTRANTES,ENTRANTES,4,Crépes de pato asado (3U),9.3,,,,1,,,,,,,,,,1,1
-ENTRANTES,ENTRANTES,5,Huevos rotos trufados,8.95,,1,,,,,,,,1,,1,,,
-ENTRANTES,ENTRANTES,6,Croquetas caseras (4U),6.5,,1,,1,,,,,,1,,,,1,
-ENTRANTES,ENTRANTES,7,Tacos de cerdo desmenuzado (2U),7.95,,,,,,,,,,,,,,1,1
-ENTRANTES,ENTRANTES,8,Tostas mexicanas (4U),9.2,,1,,,,,,,1,,,,,1,1
-ENTRANTES,ENTRANTES,1,Rodajas de berenjena con bacalao,6.5,,1,,,,,,,,,,1,,,
+ENTRANTES,ENTRANTES,192,Goma wakame,5.6,,,,1,,,,,,,,1,,,
+ENTRANTES,ENTRANTES,194,Sopa agri tradicional,5.9,,,,1,,,,,,,,,,,
+ENTRANTES,ENTRANTES,195,Berenjena crujiente con salsa especial,5.9,,,,,,,,,,,,,,1,
+ENTRANTES,ENTRANTES,2,Rollitos vegetales (4U),4.9,,,,,,,,,,,,,,1,
+ENTRANTES,ENTRANTES,2A,Rollitos de primavera de verduras,4.9,,,,,,,,,,,,,,1,
+ENTRANTES,ENTRANTES,3,Rollitos de langostinos (4U),6.8,,,,1,,,,,,,,,,1,
+ENTRANTES,ENTRANTES,4,Crépes de pato asado (3U),8.9,,,,1,,,,,,,,,,1,1
+ENTRANTES,ENTRANTES,5,Huevos rotos trufados,8.5,,1,,,,,,,,1,,1,,,
+ENTRANTES,ENTRANTES,6,Croquetas caseras (4U),5.9,,1,,1,,,,,,1,,,,1,
+ENTRANTES,ENTRANTES,7,Tacos de cerdo desmenuzado (2U),7.9,,,,,,,,,,,,,,1,1
+ENTRANTES,ENTRANTES,8,Tostas mexicanas (4U),8.8,,1,,,,,,,1,,,,,1,1
+ENTRANTES,ENTRANTES,1,Rodajas de berenjena con bacalao,5.8,,1,,,,,,,,,,1,,,
 ,,,DEL HUERTO,,,,,,,,,,,,,,,,
-PRINCIPALES,DEL HUERTO,9,Verdura variada salteada,7.95,,,,,,,,,,,,,,,
-PRINCIPALES,DEL HUERTO,10,Setas y espárragos,8.5,,,,,,,,,,,,,,1,1
+PRINCIPALES,DEL HUERTO,9,Verdura variada salteada,7.9,,,,,,,,,,,,,,,
+PRINCIPALES,DEL HUERTO,10,Setas y espárragos,7.9,,,,,,,,,,,,,,1,1
 PRINCIPALES,,,DEL MAR,,,,,,,,,,,,,,,,
-PRINCIPALES,DEL MAR,11,Tartar de salmón,8.95,,1,,,,,,,1,,,1,,1,1
-PRINCIPALES,DEL MAR,12,Salmón a la plancha,8.95,,1,,,,,,,,1,,,,1,1
-PRINCIPALES,DEL MAR,13,Salmon ahumado con mango,8.95,,1,,1,,,,1,,,,,,,
-PRINCIPALES,DEL MAR,14,Tartar de atún,9.95,,1,,,,,,,,1,,1,,1,1
-PRINCIPALES,DEL MAR,15,Tataki de atún,9.95,,1,,,,,,,,,,1,,1,1
-PRINCIPALES,DEL MAR,16,Tempura de langostino,7.9,,,,1,,,,,,1,,,,1,1
-PRINCIPALES,DEL MAR,17,Langostinos tigre,8.5,,,,1,,,,,,1,,,,1,
-PRINCIPALES,DEL MAR,18,Langostinos al Kung-Pao,10.5,,,,1,1,,,,,,,,,1,1
-PRINCIPALES,DEL MAR,19,Langostinos con salsa XO,10.5,,,1,1,1,,,,,,,1,,1,1
-PRINCIPALES,DEL MAR,191,Langostinos al curry con arroz blanco,10.5,,,,1,,,,,,,,,,1,1
+PRINCIPALES,DEL MAR,11,Tartar de salmón,8.9,,1,,,,,,,1,,,1,,1,1
+PRINCIPALES,DEL MAR,12,Salmón a la plancha,7.9,,1,,,,,,,,1,,,,1,1
+PRINCIPALES,DEL MAR,13,Salmon ahumado con mango,8.9,,1,,1,,,,1,,,,,,,
+PRINCIPALES,DEL MAR,14,Tartar de atún,9.9,,1,,,,,,,,1,,1,,1,1
+PRINCIPALES,DEL MAR,15,Tataki de atún,9.9,,1,,,,,,,,,,1,,1,1
+PRINCIPALES,DEL MAR,16,Tempura de langostino,6.9,,,,1,,,,,,1,,,,1,1
+PRINCIPALES,DEL MAR,17,Langostinos tigre,7.9,,,,1,,,,,,1,,,,1,
+PRINCIPALES,DEL MAR,18,Langostinos al Kung-Pao,9.9,,,,1,1,,,,,,,,,1,1
+PRINCIPALES,DEL MAR,19,Langostinos con salsa XO,9.9,,,1,1,1,,,,,,,1,,1,1
+PRINCIPALES,DEL MAR,191,Langostinos al curry con arroz blanco,9.9,,,,1,,,,,,,,,,1,1
 PRINCIPALES,,,DE LA TIERRA,,,,,,,,,,,,,,,,
-PRINCIPALES,DE LA TIERRA,20,Rabo de toro,9.5,,,,,,,,,,,,,1,1,1
-PRINCIPALES,DE LA TIERRA,21,Costillar con puré de patatas,8.5,,,,,,,,,,,1,,,,
-PRINCIPALES,DE LA TIERRA,22,Tuétano con miso rojo,10.95,,,,,1,,,,,,,,1,1,1
-PRINCIPALES,DE LA TIERRA,23,Burger de Wagyu,7.75,,,,,,,,,,1,1,,,,
-PRINCIPALES,DE LA TIERRA,24,Ternera crujiente agridulce,7.95,,,,,,,,,,1,,1,,1,1
-PRINCIPALES,DE LA TIERRA,25,Ternera al curry con arroz blanco,8.9,,,,,,,,,,,1,,,,
-PRINCIPALES,DE LA TIERRA,26,Ternera con salsa de ostras,8.9,,,,1,,,,,,,,,,1,1
-PRINCIPALES,DE LA TIERRA,27,Pollo caramelizado crujiente,6.95,,,,,,,,,,,,1,,1,1
-PRINCIPALES,DE LA TIERRA,28,Pollo con limón,6.95,,,,,,,,,,1,,1,,1,
-PRINCIPALES,DE LA TIERRA,29,Pollo Kung-Pao,7.9,,,,,1,,,,,,,,,1,1
-PRINCIPALES,DE LA TIERRA,30,Pollo al curry con arroz blanco,7.95,,,,,,,,,,,1,,,,
-PRINCIPALES,DE LA TIERRA,31,Cerdo agridulce,6.9,,,,,,,,,,1,,,,1,
-PRINCIPALES,DE LA TIERRA,32,Pato crujiente almendrado,9.55,,,,,,,,,1,,,,,1,1
+PRINCIPALES,DE LA TIERRA,20,Rabo de toro,8.9,,,,,,,,,,,,,1,1,1
+PRINCIPALES,DE LA TIERRA,21,Costillar con puré de patatas,7.9,,,,,,,,,,,1,,,,
+PRINCIPALES,DE LA TIERRA,22,Tuétano con miso rojo,8.95,,,,,1,,,,,,,,1,1,1
+PRINCIPALES,DE LA TIERRA,23,Burger de Wagyu,7.5,,,,,,,,,,1,1,,,,
+PRINCIPALES,DE LA TIERRA,24,Ternera crujiente agridulce,7.9,,,,,,,,,,1,,1,,1,1
+PRINCIPALES,DE LA TIERRA,25,Ternera al curry con arroz blanco,8.5,,,,,,,,,,,1,,,,
+PRINCIPALES,DE LA TIERRA,26,Ternera con salsa de ostras,8.5,,,,1,,,,,,,,,,1,1
+PRINCIPALES,DE LA TIERRA,27,Pollo caramelizado crujiente,6.9,,,,,,,,,,,,1,,1,1
+PRINCIPALES,DE LA TIERRA,28,Pollo con limón,6.9,,,,,,,,,,1,,1,,1,
+PRINCIPALES,DE LA TIERRA,29,Pollo Kung-Pao,7.5,,,,,1,,,,,,,,,1,1
+PRINCIPALES,DE LA TIERRA,30,Pollo al curry con arroz blanco,7.9,,,,,,,,,,,1,,,,
+PRINCIPALES,DE LA TIERRA,31,Cerdo agridulce,6.5,,,,,,,,,,1,,,,1,
+PRINCIPALES,DE LA TIERRA,32,Pato crujiente almendrado,9.5,,,,,,,,,1,,,,,1,1
 PRINCIPALES,,,UN TOQUE ORIENTAL,,,,,,,,,,,,,,,,
-PRINCIPALES,UN TOQUE ORIENTAL,33,Gyoza a la plancha de pollo y verdura (4U),6.95,,,,,,,,,,,,,,1,1
+PRINCIPALES,UN TOQUE ORIENTAL,33,Gyoza a la plancha de pollo y verdura (4U),5.95,,,,,,,,,,,,,,1,1
 PRINCIPALES,UN TOQUE ORIENTAL,34,Dumplings al vapor (4U),6.95,,,,,,,,,,,,,,1,1
 PRINCIPALES,UN TOQUE ORIENTAL,35,Xiao Long Bao (4U),6.95,,,,,,,,,,,,,,1,1
 PRINCIPALES,UN TOQUE ORIENTAL,36,ShaoMai (4U),6.95,,,,1,,,,,,,,,,1,1
 PRINCIPALES,UN TOQUE ORIENTAL,37,Hakao (4U),6.95,,,,1,,,,,,1,,,,,
 PRINCIPALES,UN TOQUE ORIENTAL,59,Wantún al estilo sichuan,7.5,,,,,,,,,,,,,,1,
 PRINCIPALES,UN TOQUE ORIENTAL,58,Pan chino,1.8,,,,,,,,,,,,,,1,
-PRINCIPALES,UN TOQUE ORIENTAL,38,Gran Bao de cangrejo,9.5,,,,1,,,,,,1,,,,1,
-PRINCIPALES,UN TOQUE ORIENTAL,39,Bao de tempura de langostino,7.5,,,,1,,,,,,1,,,,1,
-PRINCIPALES,UN TOQUE ORIENTAL,40,Bao de pato asado,7.5,,,,1,,,,,,,,,,1,1
-PRINCIPALES,UN TOQUE ORIENTAL,41,Arroz frito con solomillo y langostinos teppanyaki,9.95,,,,1,,,,,,1,,,,1,1
-PRINCIPALES,UN TOQUE ORIENTAL,42,Arroz frito con gambas,7.95,,,,1,,,,,,1,,,,1,1
-PRINCIPALES,UN TOQUE ORIENTAL,43,Arroz Blanco,2.5,,,,,,,,,,,,1,,,
-PRINCIPALES,UN TOQUE ORIENTAL,44,Ku-Bak crujiente,10.9,,,,1,,,,,,1,,,,1,1
-PRINCIPALES,UN TOQUE ORIENTAL,45,Tallarines frito con ternera,6.95,,,,,,,,,,1,,1,,1,1
+PRINCIPALES,UN TOQUE ORIENTAL,38,Gran Bao de cangrejo,8.95,,,,1,,,,,,1,,,,1,
+PRINCIPALES,UN TOQUE ORIENTAL,39,Bao de tempura de langostino,6.9,,,,1,,,,,,1,,,,1,
+PRINCIPALES,UN TOQUE ORIENTAL,40,Bao de pato asado,6.9,,,,1,,,,,,,,,,1,1
+PRINCIPALES,UN TOQUE ORIENTAL,41,Arroz frito con solomillo y langostinos teppanyaki,9.9,,,,1,,,,,,1,,,,1,1
+PRINCIPALES,UN TOQUE ORIENTAL,42,Arroz frito con gambas,7.9,,,,1,,,,,,1,,,,1,1
+PRINCIPALES,UN TOQUE ORIENTAL,43,Arroz Blanco,2,,,,,,,,,,,,1,,,
+PRINCIPALES,UN TOQUE ORIENTAL,44,Ku-Bak crujiente,9.9,,,,1,,,,,,1,,,,1,1
+PRINCIPALES,UN TOQUE ORIENTAL,45,Tallarines frito con ternera,6.9,,,,,,,,,,1,,1,,1,1
 ,,,SUSHI,,,,,,,,,,,,,,,,
-SUSHI,SUSHI,46,Nigiri de salmon (4U),7.2,,1,,,,,,,,,,,,,
-SUSHI,SUSHI,47,Nigiri de salmón flambeado (4U),7.9,,1,,,,,,,,1,,,,1,1
-SUSHI,SUSHI,48,Nigiri de atún y salmon (4U),7.55,,1,,,,,,,,,,,,,
-SUSHI,SUSHI,49,Nigiri de sushi EBI (4U),7.2,,,,1,,,,,,,,,,,
-SUSHI,SUSHI,50,Nigiri vegetal (4U),6.95,,,,,,,,,,,,,,,
-SUSHI,SUSHI,51,Nigiri de foie (2U),7.5,,1,,,,,,,,,,,,1,1
-SUSHI,SUSHI,52,Sushi roll de salmón y aguacate (4U),7.9,,1,,,,,,1,,1,,,,1,1
+SUSHI,SUSHI,46,Nigiri de salmon (4U),6.9,,1,,,,,,,,,,,,,
+SUSHI,SUSHI,47,Nigiri de salmón flambeado (4U),7.5,,1,,,,,,,,1,,,,1,1
+SUSHI,SUSHI,48,Nigiri de atún y salmon (4U),7.5,,1,,,,,,,,,,,,,
+SUSHI,SUSHI,49,Nigiri de sushi EBI (4U),6.9,,,,1,,,,,,,,,,,
+SUSHI,SUSHI,50,Nigiri vegetal (4U),6.9,,,,,,,,,,,,,,,
+SUSHI,SUSHI,51,Nigiri de foie (2U),6.9,,1,,,,,,,,,,,,1,1
+SUSHI,SUSHI,52,Sushi roll de salmón y aguacate (4U),7.5,,1,,,,,,1,,1,,,,1,1
 SUSHI,SUSHI,65,Rollo de pollo con salsa teriyaki,7.5,,,,,,,,,,,,1,,1,1
-SUSHI,SUSHI,53,Sushi roll de tempura de langostino (4U),7.9,,,,1,,,,,,1,,,,1,1
-SUSHI,SUSHI,54,California roll con tobiko (4U),7.5,,1,,1,,,,,,1,,,,,
-SUSHI,SUSHI,55,Uramaki rollo de salmon,7.5,,1,,,,,,,,,,,,1,1
-SUSHI,SUSHI,60,Maki de Salmón,7.5,,1,,,,,,,,,,,,,
-SUSHI,SUSHI,61,Maki de Atún,7.55,,1,,,,,,,,,,,,,
-SUSHI,SUSHI,62,Maki de Aguacate,6.55,,,,,,,,,,,,,,,
-SUSHI,SUSHI,63,Maki de Salmón con queso Philadelphia,7.5,,1,,,,,,,,,,,,,
+SUSHI,SUSHI,53,Sushi roll de tempura de langostino (4U),7.5,,,,1,,,,,,1,,,,1,1
+SUSHI,SUSHI,54,California roll con tobiko (4U),6.9,,1,,1,,,,,,1,,,,,
+SUSHI,SUSHI,55,Uramaki rollo de salmon,6.9,,1,,,,,,,,,,,,1,1
+SUSHI,SUSHI,60,Maki de Salmón,6.9,,1,,,,,,,,,,,,,
+SUSHI,SUSHI,61,Maki de Atún,7.5,,1,,,,,,,,,,,,,
+SUSHI,SUSHI,62,Maki de Aguacate,6.5,,,,,,,,,,,,,,,
+SUSHI,SUSHI,63,Maki de Salmón con queso Philadelphia,6.9,,1,,,,,,,,,,,,,
 SUSHI,SUSHI,64,Roll de Salmón con queso Philadelphia,7.5,,1,,,,,,,,,,,,,
 SUSHI,,,SUSHI ESPECIAL,,,,,,,,,,,,,,,,
-SUSHI,SUSHI ESPECIAL,70,Sushi Box 26U,35.95,,1,,,,,,1,,1,,,,,
-SUSHI,SUSHI ESPECIAL,71,Combo Special Rolls 16U,28.95,,1,,1,,,,1,,1,,,,,
-SUSHI,SUSHI ESPECIAL,72,Combo Moriawase 20U,30.95,,1,,,,,,1,,,,,,,
-SUSHI,SUSHI ESPECIAL,73,Combo Salmón 20U,29.95,,1,,,,,,1,,1,,,,,
-SUSHI,SUSHI ESPECIAL,74,Combo Maki 16U,14.95,,1,,,,,,,,,,,,,
+SUSHI,SUSHI ESPECIAL,70,Sushi Box 26U,33.95,,1,,,,,,1,,1,,,,,
+SUSHI,SUSHI ESPECIAL,71,Combo Special Rolls 16U,26.9,,1,,1,,,,1,,1,,,,,
+SUSHI,SUSHI ESPECIAL,72,Combo Moriawase 20U,29.95,,1,,,,,,1,,,,,,,
+SUSHI,SUSHI ESPECIAL,73,Combo Salmón 20U,28.95,,1,,,,,,1,,1,,,,,
+SUSHI,SUSHI ESPECIAL,74,Combo Maki 16U,13.95,,1,,,,,,,,,,,,,
 SUSHI,SUSHI ESPECIAL,75,Basic Box 12U,12.95,,1,,,,,,,,,,,,,
-SUSHI,SUSHI ESPECIAL,76,Nigiri Box 8U,14.95,,1,,1,,,,,,,,,,,
-SUSHI,SUSHI ESPECIAL,77,Sashimi Salmón 10U,16.95,,1,,,,,,,,,,,,,
-SUSHI,SUSHI ESPECIAL,78,Combo california y maki,14.95,,1,,1,,,,,,1,,,,,
+SUSHI,SUSHI ESPECIAL,76,Nigiri Box 8U,13.95,,1,,1,,,,,,,,,,,
+SUSHI,SUSHI ESPECIAL,77,Sashimi Salmón 10U,15.95,,1,,,,,,,,,,,,,
+SUSHI,SUSHI ESPECIAL,78,Combo california y maki,13.95,,1,,1,,,,,,1,,,,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,BEBIDAS,,,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,200,Cerveza china,3.5,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,201,Cerveza japonesa,3.5,1,,,,,,,,,,,,,,
-BEBIDAS,BEBIDAS,202,Cerveza Mahou,3,1,,,,,,,,,,,,,,
+BEBIDAS,BEBIDAS,202,Cerveza Mahou,2.9,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,266,Cerveza 0.0 Tostada,3.5,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,267,Sake espumoso,12,1,,,,,,,,,,,,,,
-BEBIDAS,BEBIDAS,203,Refrescos (todos),2.95,1,,,,,,,,,,,,,,
+BEBIDAS,BEBIDAS,203,Refrescos (todos),2.85,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,204,Agua sin gas 500ml Solán de Cabras,2.5,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,205,Agua sin gas 1L Solán de cabras,4.5,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,206,Agua con gas Vichy 500ml,3,1,,,,,,,,,,,,,,
@@ -102,34 +102,3 @@ BEBIDAS,BEBIDAS,211,Ron solo,6,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,212,Whisky combinado,8,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,213,Gin combinado,8,1,,,,,,,,,,,,,,
 BEBIDAS,BEBIDAS,214,Ron combinado,8,1,,,,,,,,,,,,,,
-BEBIDAS,,,VINOS TINTOS,,,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,215,Vino de la casa (rioja),12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,216,Marqués de Cáceres 1/2 (Crianza),10,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,217,Marqués de Cáceres (Crianza),17,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,218,Ramón Bilbao (Rioja),19,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,219,Protos joven (Ribera del Duero),17,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,220,Matarromera 1/2 (Ribera del Duero),22,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,221,Matarromera (Ribera del Duero),35,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,222,Pago de los capellanes (Crianza),28,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,223,Pago de Carraovejas (Ribera del Duero),45,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,224,Contino(Rioja),35,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,225,Muga (Crianza),24,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,226,Faustino I (Gran Reserva),26,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,227,Muga Reserva (Rioja),38,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,228,Basagoiti (Crianza),18,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,268,Marqués Riscal reserva,22,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS TINTOS,269,Marqués Riscal reserva 1/2,12,1,,,,,,,,,,,,,,
-BEBIDAS,,,VINOS BLANCOS,,,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,229,Vino blanco de la casa (verdejo),12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,230,Diamante (Rioja),12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,231,Barbadillo,12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,241,Barbadillo 1/2,6,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,232,Marqués de Riscal verdejo 1/2 (Rueda),10,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,233,Marqués de Riscal verdejo (Rueda),16,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,234,Mar de frades (rias baixas),26,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,240,Viña Sol,12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS BLANCOS,236,Viñas del vero (Gewürztraminer),20,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS ROSADOS,235,Vino rosado de la casa,12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS ROSADOS,237,Gran feudo (Navara),12,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS ROSADOS,238,Enate (somontano),16,1,,,,,,,,,,,,,,
-BEBIDAS,VINOS ROSADOS,239,Sangría,12,1,,,,,,,,,,,,,,
