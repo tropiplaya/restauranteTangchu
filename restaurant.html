@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tang Chu | Alta Gastronomía China Contemporánea</title>
+    <style>
+        /* --- CONFIGURACIÓN GENERAL --- */
+        :root {
+            --gold: #d4af37; /* Dorado elegante */
+            --dark-overlay: rgba(0, 0, 0, 0.75); /* Oscurece el fondo para leer el texto */
+            --text-main: #f5f5f5;
+            --text-muted: #cccccc;
+            --font-heading: 'Playfair Display', serif; /* Fuente elegante */
+            --font-body: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: var(--font-body);
+            color: var(--text-main);
+            background-color: #111; /* Color de respaldo */
+            overflow-x: hidden;
+        }
+
+        /* TUS ASSETS AQUÍ: */
+        .bg-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            /* Reemplaza 'ruta-a-tu-fondo.jpg' con tu imagen de fondo actual */
+            background-image: url('images/background-tangchu.jpg'); 
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--dark-overlay);
+            z-index: -1;
+        }
+
+        /* --- TIPOGRAFÍA Y UTILIDADES --- */
+        h1, h2, h3 {
+            font-family: var(--font-heading);
+            font-weight: 400;
+            margin: 0;
+        }
+
+        p {
+            line-height: 1.8;
+            font-size: 1.1rem;
+            color: var(--text-muted);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .gold-text { color: var(--gold); }
+        .text-center { text-align: center; }
+        .uppercase { text-transform: uppercase; letter-spacing: 2px; font-size: 0.9rem; }
+
+        /* --- BOTONES --- */
+        .btn {
+            display: inline-block;
+            padding: 15px 35px;
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+        }
+
+        .btn:hover {
+            background-color: var(--gold);
+            color: #000;
+        }
+
+        /* --- HERO SECTION --- */
+        header {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .logo {
+            max-width: 250px; /* Ajusta según tu logo real */
+            margin-bottom: 30px;
+        }
+
+        .hero-title {
+            font-size: 3.5rem;
+            margin-bottom: 15px;
+        }
+
+        .hero-subtitle {
+            font-size: 1.2rem;
+            font-weight: 300;
+            letter-spacing: 3px;
+            margin-bottom: 40px;
+            color: var(--gold);
+        }
+
+        /* --- SECCIONES DE CONTENIDO --- */
+        section {
+            padding: 100px 0;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            position: relative;
+            display: inline-block;
+        }
+        
+        .section-title::after {
+            content: '';
+            display: block;
+            width: 60px;
+            height: 2px;
+            background: var(--gold);
+            margin: 15px auto 0;
+        }
+
+        /* GRID LAYOUTS */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.05);
+            padding: 40px;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: transform 0.3s;
+        }
+        .card:hover {
+            border-color: var(--gold);
+            transform: translateY(-5px);
+        }
+
+        /* --- MENU CHEF DESTACADO --- */
+        .chef-section {
+            background: rgba(0,0,0,0.6); /* Un poco más oscuro para destacar */
+        }
+
+        .seasonal-badge {
+            background-color: var(--gold);
+            color: #000;
+            padding: 5px 10px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            padding: 50px 0;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            font-size: 0.9rem;
+        }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 768px) {
+            .hero-title { font-size: 2.5rem; }
+            .grid-2 { grid-template-columns: 1fr; }
+            section { padding: 60px 0; }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="bg-container"></div>
+    <div class="overlay"></div>
+
+    <header class="container">
+        <img src="./assets/images/tangchu-imagotipo.png" alt="Tang Chu Logo" class="logo">
+        
+        <p class="hero-subtitle">GASTRONOMÍA CHINA CONTEMPORÁNEA</p>
+        
+        <div>
+            <a href="carta.html" class="btn">Ver Carta</a>
+            <a href="#reservas" class="btn" style="margin-left: 20px;">Reservar Mesa</a>
+        </div>
+    </header>
+
+    <section class="container text-center" id="reservas">
+        <span class="uppercase gold-text">Nuestra Filosofía</span>
+        <h2 class="section-title">Donde la Tradición Abraza la Vanguardia</h2>
+        <p style="max-width: 800px; margin: 0 auto;">
+            Tang Chu no es solo un restaurante, es un viaje sensorial. Hemos rescatado las recetas imperiales de la China profunda y las hemos reinterpretado con técnicas modernas y una presentación exquisita. Una fusión elegante que respeta la raíz, pero mira hacia el futuro.
+        </p>
+    </section>
+
+    <section class="chef-section">
+        <div class="container">
+            <div class="grid-2">
+                <div>
+                    <div style="border: 1px solid var(--gold); height: 300px; display: flex; align-items: center; justify-content: center;">
+                        <img src="./assets/images/tangchu-aisle.png"/ alt="Tangchu Salones" height="100%" width="100%">
+                        <span style="color: var(--gold);"></span>
+                    </div>
+                </div>
+                <div>
+                    <span class="seasonal-badge">Bajo Encargo &middot; Temporada</span>
+                    <h2 class="section-title" style="text-align: left; margin: 0;">Colección de Autor</h2>
+                    <br>
+                    <p>
+                        Más allá de nuestra carta, ofrecemos una experiencia reservada para los verdaderos conocedores.
+                    </p>
+                    <p>
+                        <strong>La Auténtica Cocina China:</strong> Una selección de platos exclusivos diseñados por nuestro Chef, elaborados con ingredientes de temporada y técnicas ancestrales que requieren tiempos de cocción pausados.
+                    </p>
+                    <p class="gold-text">
+                        *Disponibles exclusivamente bajo reserva previa. Pregunte por las sugerencias de temporada.
+                    </p>
+                    <a class="btn">Consulta Sugerencias</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container text-center">
+        <span class="uppercase gold-text">Eventos & Privacidad</span>
+        <h2 class="section-title">Espacios con Alma</h2>
+        <p style="max-width: 700px; margin: 0 auto 50px;">
+            El ambiente en Tang Chu acompaña la excelencia del plato. Diseñado para la intimidad y la celebración.
+        </p>
+
+        <div class="grid-2">
+            <div class="card">
+                <h3>Grandes Salones</h3>
+                <p>La amplitud perfecta para reuniones corporativas, celebraciones familiares y grandes grupos. Un ambiente diáfano donde la elegancia es la protagonista.</p>
+            </div>
+            <div class="card">
+                <h3>El Salón Privado</h3>
+                <p>Para quienes buscan la máxima discreción. Un espacio exclusivo, separado del bullicio, ideal para cerrar negocios o disfrutar de una velada íntima.</p>
+            </div>
+        </div>
+        
+        <br><br>
+        <a class="btn">Gestiona Reserva de Grupo</a>
+    </section>
+
+    <footer class="text-center">
+        <div class="container">
+            <img src="./assets/images/tangchu-imagotipo.png" alt="Tang Chu Logo" style="width: 100px; margin-bottom: 20px; opacity: 0.7;">
+            <p>Plaza de España, 11 28008 Madrid</p>
+            <p>Tel: +34 639 126 823 | Email: rest.tangchu.mad@gmail.com</p>
+            <br>
+            <p style="font-size: 0.8rem; opacity: 0.5;">&copy; 2025 Tang Chu. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
